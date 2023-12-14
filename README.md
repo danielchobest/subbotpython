@@ -6,4 +6,4 @@
 ## Installation
 #### Simply dawnload [subbot.py](#). 
 ## Get an api key
-#### You need to get an api key to use this tool. Every api key has some subscribers that you can get. There is one free api for 5 subscribers and the others are paid. 10 subscribers cost 1 dollar. If you buy more then 100 subscribers you will get 35% discount. To buy an api key you need to contact the developer by email - admin@danielchobest.xyz
+#### You need to get an api key to use this tool. Every api key has some subscribers that you can get. There is one free api for 5 subscribers and the others are paid. 10 subscribers cost 1 dollar. If you buy more then 100 subscribers you will get 35% discount. To buy an api key you need to contact the developer by email - [admin@danielchobest.xyz]
